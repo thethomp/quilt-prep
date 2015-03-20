@@ -1,0 +1,20 @@
+/-----  QuiltPrep README  ------/
+
+DEVELOPER: Mike Thompson
+Daniel Mathis
+
+EMAIL: met600@gmail.com
+
+LINK: https://sourceforge.net/projects/quiltprep/
+
+DESCRIPTION: QuiltPrep is a Java application written to simplify the task
+of figuring out how much fabric to buy for a particular pattern. You simply 
+put the width of the roll of fabric that the store offers in the "Width of 
+fabric" field, input however many squares and strips your pattern requires,
+and QuiltPrep will make the calculation to produce the optimal length of fabric
+you will have to buy from the store in order to give you all the squares and strips
+that you need.
+
+TO RUN: You need to have some version of the Java Runtime Environment installed on 
+your machine in order to run the program. Simply double click on the .jar file to 
+start the program.
